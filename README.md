@@ -3,7 +3,10 @@
 Welcome to my Python repository! This space tracks my core programming foundations built using freeCodeCamp, covering everything from core syntax to structured logic.
 
 ## 🏆 Hands-On Labs & Workshops
-*These represent exercises where I worked through overall instructions and standalone coding challenges.*
+*These represent exercises where I worked through overall instructions, standalone coding challenges, and independent logic.*
+
+### 🚀 Featured Independent Project
+*   **[Merit Calculator](./merit_calculator.py):** A custom utility script I designed from scratch that takes Matric, FSc, and NTS NAT scores to calculate university admission aggregates using standard weightage formulas.
 
 ### 🛠️ Python Basics
 *   **Lab:** Build a Travel Weather Planner
