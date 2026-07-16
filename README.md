@@ -29,16 +29,3 @@ Welcome to my Python repository! This space tracks my core programming foundatio
 ## 💻 Tech Stack
 *   **Language:** Python 3
 *   **Platform:** freeCodeCamp
-
-### 🔄 Loops & Sequences
-*   **Lab:** Build a Number Pattern Generator
-*   *Plus 1 completed looping structure workshop*
-
-## 📚 Guided Projects & Theory
-*   **Data Structures:** Completed a guided project exploring Dictionaries & Sets.
-*   **Error Handling:** Covered the core theory and mechanics of `try / except` blocks.
-*   *Completed 7 step-by-step guided practice projects across the curriculum.*
-
-## 💻 Tech Stack
-*   **Language:** Python 3
-*   **Platform:** freeCodeCamp
