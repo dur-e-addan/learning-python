@@ -7,6 +7,7 @@ Welcome to my Python repository! This space tracks my core programming foundatio
 
 ### 🚀 Featured Independent Project
 *   **[Merit Calculator](./merit_calculator.py):** A custom utility script I designed from scratch that takes Matric, FSc, and NTS NAT scores to calculate university admission aggregates using standard weightage formulas.
+*   * **[ISBN Validator](./isbn_validator.py):** A debugging exercise where I identified and fixed 4 bugs in a broken ISBN validation script — including an indentation error, incorrect len() usage, an off-by-one slice error, and a wrong exception type.
 
 ### 🛠️ Python Basics
 *   **Lab:** Build a Travel Weather Planner
